@@ -1,4 +1,4 @@
-**doorstepbooks.com
+## doorstepbooks.com
 
 This repository contains the manual testing flow for the doorstepbooks.com website.
 
